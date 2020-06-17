@@ -1,1 +1,2 @@
 traceinto
+log text: {p:cip} {a:cip} {i:cip}  eax:[{x:eax}]"{s:eax}" ebx:[{x:ebx}]"{s:ebx}" ecx:[{x:ecx}]"{s:ecx}" edx:[{x:edx}]"{s:edx}"----- 
